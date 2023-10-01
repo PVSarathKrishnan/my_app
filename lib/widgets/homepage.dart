@@ -3,7 +3,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:my_app/widgets/Profile.dart';
 import 'package:my_app/widgets/Settings.dart';
 import 'package:my_app/widgets/LoginScreen.dart';
-import 'package:my_app/main.dart';
+import 'package:my_app/main.dart' as main;
 import 'package:shared_preferences/shared_preferences.dart';
 
 bool isLiked1 = false;
